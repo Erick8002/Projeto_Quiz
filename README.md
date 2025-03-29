@@ -1,2 +1,2 @@
-# Projeto_Quiz
+# ProjetoQuiz
 Projeto HTML fazendo um quiz
